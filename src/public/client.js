@@ -4,7 +4,7 @@ let store = {
     rovers: ['Curiosity', 'Opportunity', 'Spirit'],
 }
 
-// add our markup to the page
+// add our markup to the page/
 const root = document.getElementById('root')
 
 const updateStore = (store, newState) => {
